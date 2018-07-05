@@ -1,6 +1,10 @@
 ---
 layout: default
 permalink: /github/
+pagination:
+  enabled: true
+  category: github
+  per_page: 2
 ---
 
 {% for post in paginator.posts %}
