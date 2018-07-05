@@ -2,7 +2,7 @@
 name: Kim H.H.
 title: Kim H.H.
 description: > # this means to ignore newlines until "baseurl:"
- 컴못알 프로그래머의 수박 겉핥기 
+ 컴못알 프로그래머의 수박 겉핥기 블로그
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://devkhh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
